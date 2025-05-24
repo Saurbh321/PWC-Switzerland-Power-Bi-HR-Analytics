@@ -3,7 +3,7 @@
 
 This Power BI dashboard analyzes employee attrition across multiple dimensions to help HR identify key trends and problem areas in the organization.
 
-![HR Analytics Dashboard](./7ab50d0d-26ae-43ac-a8c8-ff60dcd060f8.png)
+![HR Analytics Dashboard](./image.png)
 
 ---
 
