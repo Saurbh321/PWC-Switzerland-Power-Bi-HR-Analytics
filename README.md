@@ -1,5 +1,5 @@
-# PWC-Switzerland-Power-Bi-HR-Analytics
-# 📊 HR Analytics Dashboard – Power BI Project
+# PWC-Switzerland-Power-Bi Project -📊 HR Analytics Dashboard
+
 
 This Power BI dashboard analyzes employee attrition across multiple dimensions to help HR identify key trends and problem areas in the organization.
 
