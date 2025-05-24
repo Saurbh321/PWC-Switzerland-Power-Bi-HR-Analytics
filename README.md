@@ -51,10 +51,3 @@ This Power BI dashboard analyzes employee attrition across multiple dimensions t
 - Focus retention strategy on **younger, lower-paid employees**
 - Revisit pay structure for high-risk roles like **Sales** and **Lab Technicians**
 
----
-
-## 📁 Project Assets
-
-- 📸 Power BI Dashboard Screenshot  
-- 📊 Data-driven insights  
-- 📄 (Optional) Source dataset and `.pbix` file  
